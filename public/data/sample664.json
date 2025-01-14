@@ -1,0 +1,15 @@
+{
+  "name": "Aman Patel",
+  "location": "Delhi, india",
+  "bio": "Frontend Devloper ",
+  "avatar": "https://github.com/sample664.png",
+  "portfolio": "https://github.com/sample664",
+  "skills": ["GIT", "GITHUB", "OPEN SOURCE"],
+  "social": {
+    "GitHub": "https://github.com/sample664",
+    "Twitter": "https://twitter.com/sample664",
+    "LinkedIn": "https://www.linkedin.com/in/sample664",
+    "Instagram": "https://www.instagram.com/sample",
+    "Email": "usample664@gmail.com"
+  }
+}
